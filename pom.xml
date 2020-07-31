@@ -45,7 +45,7 @@
 	<configuration>
 		<url>http://localhost:8081/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/WebApp</path>
+		<path>/webapps</path>
 	</configuration>
 </plugin>
              
